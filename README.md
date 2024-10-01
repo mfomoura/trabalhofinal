@@ -1,0 +1,1 @@
+Este projeto apresenta um Dashboard Interativo para análise de Aluguel de Imóveis, criado com a finalidade de explorar dados relacionados a locações, mostrando informações como a quantidade de banheiros, quartos e preços de aluguel.

@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import folium
+import plotly
 from streamlit_folium import folium_static
 
 # Carregar os dados

@@ -1,4 +1,4 @@
-# :house: DASHBOARD PARA ALUGUEL DE IMÓVEIS
+
 
 # :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**
 ![Logo UFMA](https://www.ufma.br/portalUFMA/tpl/imagens/logoHeader.png)
@@ -8,6 +8,8 @@
 - **Curso**: Especialização em Análise de Dados e Inteligência Artificial
 - **Disciplina**: Visualização de Dados
 - **Trabalho Final**: Dashboard Interativo para Análise de Aluguel de Imóveis
+- 
+# :house: DASHBOARD PARA ALUGUEL DE IMÓVEIS
 
 ## :bar_chart: **Descrição do Projeto**
 Este projeto é parte do **Trabalho Final** da disciplina de **Visualização de Dados** e tem como objetivo desenvolver um **Dashboard Interativo** para a análise de dados de aluguel de imóveis. O dashboard apresenta diversas informações, como o valor médio de aluguel, número de quartos, área e localização dos imóveis.

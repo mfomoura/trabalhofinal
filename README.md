@@ -29,10 +29,6 @@ Este projeto é parte do **Trabalho Final** da disciplina de **Visualização de
 ## :link: **Acesse o Dashboard**
 Clique [aqui](https://trabalhofinal-nqzekz2tvf6gzh6zki95qv.streamlit.app/) para visualizar o Dashboard Interativo de Aluguel de Imóveis.
 
-## :framed_picture: **Exemplo do Dashboard**
-![Exemplo do Dashboard](images/dashboard_example.png)
-
-
 ## :clipboard: Descrição do Projeto
 Este projeto foi desenvolvido como parte do Trabalho Final da disciplina de Visualização de Dados. O objetivo é criar um dashboard interativo que permita a análise visual de dados de aluguel de imóveis, apresentando métricas como média de aluguel por cidade, distribuição de preços e a relação entre área, número de quartos e o valor do aluguel.
 

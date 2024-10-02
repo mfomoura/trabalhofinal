@@ -1,5 +1,5 @@
 # :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**
-![Logo UFMA](![image](https://github.com/user-attachments/assets/2d0c77b4-5226-4c61-97ec-761a3dc28f14)
+![Logo UFMA](![image](https://portalpadrao.ufma.br/dted/++theme++tema-dted-2021/++theme++tema-dted-2021/img/dted-logo-218x96.png)
 
 
 ## :student: **Discente**

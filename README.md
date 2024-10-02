@@ -1,6 +1,5 @@
 # :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**
-(![image](https://portalpadrao.ufma.br/dted/++theme++tema-dted-2021/++theme++tema-dted-2021/img/dted-logo-218x96.png)
-
+![Logo UFMA](https://www.ufma.br/portalUFMA/tpl/imagens/logoHeader.png)
 
 ## :student: **Discente**
 - **Nome**: Márcio Fabiano Oliveira de Moura Santos

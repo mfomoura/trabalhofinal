@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://ugc.production.linktr.ee/329b4e3b-a2fa-455d-a807-bb48389df7cf_An-YBZ6J-Q4Wk6nF-yI5vLPeTuoHUSWexC-rnOiENQjHUdUkWasLWy3QrL-Qcv5J42e92BUA-bGwyJZsaxJYG-H53WjyLeLs-pb9.jpeg">
+    <img src="https://ugc.production.linktr.ee/329b4e3b-a2fa-455d-a807-bb48389df7cf_An-YBZ6J-Q4Wk6nF-yI5vLPeTuoHUSWexC-rnOiENQjHUdUkWasLWy3QrL-Qcv5J42e92BUA-bGwyJZsaxJYG-H53WjyLeLs-pb9.jpeg" alt="Ícone" width="100" height="100">
 </div>
 
 # :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**

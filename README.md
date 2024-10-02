@@ -1,5 +1,26 @@
 # :house: DASHBOARD PARA ALUGUEL DE IMÓVEIS
 
+# :bar_chart: TRABALHO FINAL DE VISUALIZAÇÃO DE DADOS
+
+## :mortar_board: Informações do Discente
+- **Universidade**: Universidade Estadual do Maranhão
+- **Discente**: Márcio Fabiano Oliveira de Moura Santos
+- **Curso**: Especialização em Análise de Dados e Inteligência Artificial
+- **Disciplina**: Visualização de Dados
+- **Projeto**: Dashboard Interativo de Aluguel de Imóveis
+
+## :clipboard: Descrição do Projeto
+Este projeto foi desenvolvido como parte do Trabalho Final da disciplina de Visualização de Dados. O objetivo é criar um dashboard interativo que permita a análise visual de dados de aluguel de imóveis, apresentando métricas como média de aluguel por cidade, distribuição de preços e a relação entre área, número de quartos e o valor do aluguel.
+
+## :gear: Funcionalidades
+- :cityscape: Visualizar a Média de Aluguel por Cidade.
+- :moneybag: Analisar a Distribuição de Preços de Aluguel.
+- :ruler: Relacionar Área do Imóvel com o Preço.
+- :bed: Comparar Número de Quartos com o Preço.
+- :world_map: Mapa interativo com as Localizações dos Imóveis.
+- :
+
+
 ## :clipboard: Descrição
 Este projeto apresenta um Dashboard Interativo para análise de Alugueis de Imóveis, desenvolvido para explorar diversos dados relacionados a locações, facilitando a visualização e análise de informações importantes.
 

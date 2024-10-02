@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://www.ufma.br/portalUFMA/tpl/imagens/logoHeader.png" alt="Logo UFMA">
+    <img src="https://ugc.production.linktr.ee/329b4e3b-a2fa-455d-a807-bb48389df7cf_An-YBZ6J-Q4Wk6nF-yI5vLPeTuoHUSWexC-rnOiENQjHUdUkWasLWy3QrL-Qcv5J42e92BUA-bGwyJZsaxJYG-H53WjyLeLs-pb9.jpeg">
 </div>
 
 # :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**

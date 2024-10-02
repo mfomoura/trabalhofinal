@@ -1,26 +1,16 @@
-:house:
-# DASHBOARD PARA ALUGUEL DE IMÓVEIS
+# Dashboard Interativo de Aluguel de Imóveis
 
-## Descrição
-Este projeto apresenta um Dashboard Interativo para análise de Alugueis de Imóveis.
+## Funcionalidades :rocket:
+- :house: Exploração de imóveis
+- :bath: Informações sobre banheiros
+- :bed: Detalhes sobre quartos
+- :chart_with_upwards_trend: Visualização de dados com gráficos interativos
 
-## Funcionalidades
-- Explorar dados referentes a Média de Aluguel por Cidade.
-- Distribuição de Preços de Aluguel.
-- Relação entre Área e Preço de Aluguel.
-- Número de Quartos vs Preço de Aluguel.
-- Mapa das Casas para Aluguel.
-- Tabela de Dados.
+## Tecnologias Utilizadas
+- :snake: Python
+- :bar_chart: Plotly
+- :earth_africa: Folium
 
+## Exemplo de Dashboard
 
-## Tecnologias e bibliotecas utilizadas
-- Python
-- Streamlit
-- Plotly
-- Folium
-- pandas
-- plotly.express as px
-- folium
-- plotly
-- streamlit_folium
-- folium_static
+![Exemplo do Dashboard](images/dashboard_example.png)

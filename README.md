@@ -22,4 +22,4 @@ Este projeto apresenta um Dashboard Interativo para análise de Alugueis de Imó
 - :compass: **folium_static**
 
 ## :framed_picture: Exemplo de Dashboard
-![Exemplo do Dashboard](images/dashboard_example.png)
+![Exemplo do Dashboard](https://trabalhofinal-nqzekz2tvf6gzh6zki95qv.streamlit.app/)

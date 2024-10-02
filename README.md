@@ -1,5 +1,3 @@
-
-
 # :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**
 ![Logo UFMA](https://www.ufma.br/portalUFMA/tpl/imagens/logoHeader.png)
 
@@ -8,7 +6,7 @@
 - **Curso**: Especialização em Análise de Dados e Inteligência Artificial
 - **Disciplina**: Visualização de Dados
 - **Trabalho Final**: Dashboard Interativo para Análise de Aluguel de Imóveis
-- 
+
 # :house: DASHBOARD PARA ALUGUEL DE IMÓVEIS
 
 ## :bar_chart: **Descrição do Projeto**
@@ -29,5 +27,4 @@ Este projeto é parte do **Trabalho Final** da disciplina de **Visualização de
 - :bar_chart: pandas
 
 ## :link: **Acesse o Dashboard**
-Clique [aqui](https://trabalhofinal-nqzekz2tvf6gzh6zki95qv.streamlit.app/) para visualizar o Dashboard Interativo de Aluguel de Imóveis.
-
+Clique <a href="https://trabalhofinal-nqzekz2tvf6gzh6zki95qv.streamlit.app/" target="_blank">aqui</a> para visualizar o Dashboard Interativo de Aluguel de Imóveis.

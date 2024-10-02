@@ -1,13 +1,37 @@
 # :house: DASHBOARD PARA ALUGUEL DE IMÓVEIS
 
-# :bar_chart: TRABALHO FINAL DE VISUALIZAÇÃO DE DADOS
+# :mortar_board: **UNIVERSIDADE FEDERAL DO MARANHÃO (UFMA)**
+![Logo UFMA](https://www.ufma.br/portalUFMA/tpl/imagens/logoHeader.png)
 
-## :mortar_board: Informações do Discente
-- **Universidade**: Universidade Estadual do Maranhão
-- **Discente**: Márcio Fabiano Oliveira de Moura Santos
+## :student: **Discente**
+- **Nome**: Márcio Fabiano Oliveira de Moura Santos
 - **Curso**: Especialização em Análise de Dados e Inteligência Artificial
 - **Disciplina**: Visualização de Dados
-- **Projeto**: Dashboard Interativo de Aluguel de Imóveis
+- **Trabalho Final**: Dashboard Interativo para Análise de Aluguel de Imóveis
+
+## :bar_chart: **Descrição do Projeto**
+Este projeto é parte do **Trabalho Final** da disciplina de **Visualização de Dados** e tem como objetivo desenvolver um **Dashboard Interativo** para a análise de dados de aluguel de imóveis. O dashboard apresenta diversas informações, como o valor médio de aluguel, número de quartos, área e localização dos imóveis.
+
+## :gear: **Funcionalidades**
+- :house: Exploração dos dados de aluguel por cidade.
+- :moneybag: Visualização da distribuição de preços de aluguel.
+- :bed: Comparação entre o número de quartos e o preço do aluguel.
+- :world_map: Mapa interativo das localizações dos imóveis.
+- :bar_chart: Tabela de dados completa para análise detalhada.
+
+## :computer: **Tecnologias Utilizadas**
+- :snake: Python
+- :rocket: Streamlit
+- :chart_with_upwards_trend: Plotly
+- :globe_with_meridians: Folium
+- :bar_chart: pandas
+
+## :link: **Acesse o Dashboard**
+Clique [aqui](https://trabalhofinal-nqzekz2tvf6gzh6zki95qv.streamlit.app/) para visualizar o Dashboard Interativo de Aluguel de Imóveis.
+
+## :framed_picture: **Exemplo do Dashboard**
+![Exemplo do Dashboard](images/dashboard_example.png)
+
 
 ## :clipboard: Descrição do Projeto
 Este projeto foi desenvolvido como parte do Trabalho Final da disciplina de Visualização de Dados. O objetivo é criar um dashboard interativo que permita a análise visual de dados de aluguel de imóveis, apresentando métricas como média de aluguel por cidade, distribuição de preços e a relação entre área, número de quartos e o valor do aluguel.
